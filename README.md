@@ -1,6 +1,6 @@
-# drawie
+# Drawie
 
-A new Flutter project.
+Flutter image edit app for web, android, and iOS.
 
 ## Getting Started
 
