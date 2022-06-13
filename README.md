@@ -1,16 +1,11 @@
 # Drawie
 
-Flutter image edit app for web, android, and iOS.
+Flutter image editor app for web, android, and iOS.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+It's very easy! Just input any public image url, then you can draw lines and add text on it.
 
-A few resources to get you started if this is your first Flutter project:
+## Doesn't work on Chrome-based browser: 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/14989865/173459117-06865ae7-e77c-4347-879b-b72b8d2ad437.mp4
